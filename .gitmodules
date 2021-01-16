@@ -1,0 +1,3 @@
+[submodule "cfw-core"]
+	path = cfw-core
+	url = git@github.com:Cutie-Club/cfw-core.git
